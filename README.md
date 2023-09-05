@@ -1,6 +1,6 @@
 # FunctionalProgrammingExample
 
-The logic represented in this project helps users combine and display their first and last names in different ways. This project takes user input, provides format choices, and then shows the user's name according to their chosen format. The tool offers the ability for the programmer to dynamically add or remove formats. By using a straightforward approach, the program ensures that users can easily and quickly view their names in various configurations.
+The logic represented in this project helps users combine and display their first and last names in different ways. This project takes user input, provides format choices, and then shows the user's name according to their chosen format. The structure of the project offers the ability for the programmer to dynamically add or remove formats. By using a straightforward approach, the program ensures that users can easily and quickly view their names in various configurations.
 
 This mentoring example aims to help learners understand functional and dynamic programming design patterns by modularizing functionality and using structured logic.
 
